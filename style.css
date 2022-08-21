@@ -1,0 +1,32 @@
+h1{
+    color: orange;
+    font-size: 76px;
+    width: 400;
+}
+.section-background{
+    background-color: rgba(82, 77, 77, 0.882);
+}
+p{
+    font-size: 20px;
+}
+#goal{
+    float: left;
+}
+.select-btn{
+    width: 225px;
+}
+.input-field{
+    width: 50px;
+}
+.official-field{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h3{
+    font-size: 16px;
+}
+.paragraph{
+    display: inline;
+    margin: 3px;
+    padding: 3px;
+}
